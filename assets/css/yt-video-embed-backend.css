@@ -1,0 +1,146 @@
+/* general */
+.mb0 {
+  margin-bottom: 0;
+}
+
+.mbhalf {
+  margin-bottom: 0.75rem;
+}
+
+.mthalf {
+  margin-top: 0.75rem;
+}
+
+.mb1 {
+  margin-bottom: 1.5rem;
+}
+
+.mt2 {
+  margin-top: 3rem;
+}
+
+.mt1 {
+  margin-top: 1.5rem;
+}
+
+.italic {
+  font-style: italic;
+}
+
+
+/* delete button styling red */
+button.ag-yt-video-embedder.button-danger {
+  color: #dc3232;
+  border-color: #dc3232;
+  background: #f3f5f6;
+  vertical-align: top;
+}
+
+button.ag-yt-video-embedder.button-danger:hover {
+  color: #f3f5f6;
+  border-color: #f3f5f6;
+  background: #dc3232;
+  vertical-align: top;
+}
+
+/* Adjust icon positions */
+.ag-yt-video-embedder.dashicons.dashicons-plus {
+  margin-top: 5px;
+  margin-right: 2px;
+}
+
+.ag-yt-video-embedder.dashicons.dashicons-edit {
+  margin-top: 5px;
+  margin-right: 2px;
+}
+
+/* Company team table styling */
+/* shortcode table view */
+div.ag-yt-video-embedder-wrapper {
+  overflow-x: scroll;
+  width: 98%;
+}
+
+table.ag-yt-video-embedder.widefat {
+  table-layout: auto;
+}
+
+table.ag-yt-video-embedder.widefat > thead th {
+  font-weight: bold;
+  color: #23282d;
+  font-variant: small-caps;
+}
+
+table.ag-yt-video-embedder.widefat > thead th {
+  font-weight: bold;
+  color: #464b50;
+  font-variant: small-caps;
+}
+
+table.ag-yt-video-embedder.widefat > tbody td {
+  font-size: 16px;
+}
+
+table.ag-yt-video-embedder td.small-col {
+  min-width: 75px;
+}
+
+
+table.ag-yt-video-embedder td {
+  vertical-align : middle;
+}
+
+table.ag-yt-video-embedder td.medium-col {
+  min-width: 150px;
+}
+
+
+table.ag-yt-video-embedder td .small-image {
+  width: 64px;
+  height: 64px;
+}
+
+table.ag-yt-video-embedder td .auto-image {
+  width: 100%;
+  height: auto;
+}
+
+table.ag-yt-video-embedder .image-table {
+  width: 150px;
+  height: auto;
+}
+
+/* shortcode list view */
+ul.ag-yt-video-embedder.grid-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  list-style-type: none;
+  list-style-image: none;
+  margin: 0;
+  padding: 0;
+  grid-gap: 1em;
+  text-align: left;
+}
+
+ul.ag-yt-video-embedder.grid-list li {
+  max-width: 320px;
+}
+
+ul.ag-yt-video-embedder.grid-list li > img {
+  width: 220px;
+  height: auto;
+}
+
+ul.ag-yt-video-embedder.grid-list li > h2 {
+  font-size: 1.5rem;
+}
+
+div.ag-yt-video-embedder.list-heading {
+  margin-bottom: 1rem;
+  margin-top: 0.5rem;
+}
+
+div.ag-yt-video-embedder.list-heading h2 {
+  margin-bottom: 0.25rem;
+}
+

@@ -1,0 +1,216 @@
+# Copyright (C) 2020 András Gulácsi
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Youtube Video Embedder 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/yt-video-embedder\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-08-19T14:34:56+02:00\n"
+"PO-Revision-Date: 2020-08-19 15:28+0200\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Domain: ag-yt-video-embedder\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: hu_HU\n"
+
+#. Plugin Name of the plugin
+#: yt-video-embedder.php:162
+msgid "Youtube Video Embedder"
+msgstr "Youtube Videó Beágyazó"
+
+#. Plugin URI of the plugin
+msgid "https://example.com/"
+msgstr "https://example.com/"
+
+#. Description of the plugin
+msgid ""
+"You can easily embed videos from Youtube etc. responsively with Bootstrap 4. "
+"Multiple widgets and shortcodes available."
+msgstr ""
+"Könnyedén beágyazhatsz Youtube videókat a Bootstrap 4 segítségével, "
+"reszponzívan . Több widget és rövidkód is elérhető."
+
+#. Author of the plugin
+msgid "András Gulácsi"
+msgstr "Gulácsi András"
+
+#. Author URI of the plugin
+msgid "https://github.com/SalsaBoy990"
+msgstr "https://github.com/SalsaBoy990"
+
+#: inc/group_video_widget_class.php:22
+msgid "Youtube video group embed widget."
+msgstr "Youtube videó csoportot beágyazó widget."
+
+#: inc/group_video_widget_class.php:26
+msgid "Youtube Video Group Embed"
+msgstr "Youtube Beágyazott Videó Csoport"
+
+#: inc/group_video_widget_class.php:100
+msgid "Adds your embedded Youtube video group widget."
+msgstr "A beágyazott Youtube videó csoport widget-et ad hozzá."
+
+#: inc/group_video_widget_class.php:102
+msgid "Heading:"
+msgstr "Címsor:"
+
+#: inc/single_video_widget_class.php:24
+msgid "Single Youtube video embed widget."
+msgstr "Egyetlen Youtube videó beágyazása widget."
+
+#: inc/single_video_widget_class.php:28
+msgid "Single Youtube Video Embed"
+msgstr "Egyetlen Youtube Videó Beágyazása"
+
+#: inc/single_video_widget_class.php:143
+msgid "Adds a single embedded Youtube video widget."
+msgstr "Egyetlen Youtube videó widget-et ad hozzá."
+
+#: inc/single_video_widget_class.php:145
+msgid "Title:"
+msgstr "Cím:"
+
+#: inc/single_video_widget_class.php:150
+msgid "Youtube video link to embed:"
+msgstr "A beágyazni kívánt Youtube videó linkje:"
+
+#: inc/single_video_widget_class.php:155
+msgid "Start time in seconds:"
+msgstr "A videó kezdete mp-ben:"
+
+#: inc/single_video_widget_class.php:160
+msgid "Enhanced Privacy mode:"
+msgstr "Fokozott Adatvédelem mód:"
+
+#: inc/single_video_widget_class.php:165
+msgid "Autoplay:"
+msgstr "Automatikus lejátszás:"
+
+#: inc/single_video_widget_class.php:170
+msgid "Captions:"
+msgstr "Feliratok:"
+
+#: pages/embedded_video_edit_template.php:33
+msgid "Edit Youtube video details"
+msgstr "Youtube videó részleteinek szerkesztése"
+
+#: pages/embedded_video_edit_template.php:40
+msgid "Video details"
+msgstr "A videó részletei"
+
+#: pages/embedded_video_edit_template.php:55
+#: pages/embedded_video_insert_template.php:16
+#: pages/embedded_video_list_template.php:31
+msgid "Title"
+msgstr "Cím"
+
+#: pages/embedded_video_edit_template.php:60
+#: pages/embedded_video_insert_template.php:20
+#: pages/embedded_video_list_template.php:33
+msgid "Url"
+msgstr "Link"
+
+#: pages/embedded_video_edit_template.php:65
+#: pages/embedded_video_insert_template.php:24
+msgid "Start time (in secs)"
+msgstr "A videó kezdete (mp-ben)"
+
+#: pages/embedded_video_edit_template.php:74
+#: pages/embedded_video_insert_template.php:32
+msgid "Enhanced Privacy mode"
+msgstr "Fokozott Adatvédelem mód"
+
+#: pages/embedded_video_edit_template.php:83
+#: pages/embedded_video_insert_template.php:41
+#: pages/embedded_video_list_template.php:44
+msgid "Autoplay"
+msgstr "Automatikus lejátszás"
+
+#: pages/embedded_video_edit_template.php:87
+#: pages/embedded_video_insert_template.php:45
+#: pages/embedded_video_list_template.php:45
+msgid "Captions"
+msgstr "Feliratok"
+
+#: pages/embedded_video_edit_template.php:93
+msgid "Update"
+msgstr "Frissít"
+
+#: pages/embedded_video_edit_template.php:94
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: pages/embedded_video_edit_template.php:95
+msgid "Delete"
+msgstr "Töröl"
+
+#: pages/embedded_video_insert_template.php:1
+msgid "Add new Youtube video"
+msgstr "Új Youtube videó hozzáadása"
+
+#: pages/embedded_video_insert_template.php:8
+msgid "Add video details"
+msgstr "Videó adatainak megadása"
+
+#: pages/embedded_video_insert_template.php:50
+msgid "Add embedded video"
+msgstr "Beágyazott videó hozzáadása"
+
+#: pages/embedded_video_list_template.php:19
+msgid "Manage Your Youtube Video Embeds"
+msgstr "A Beágyazott Youtube Videóid Kezelése"
+
+#: pages/embedded_video_list_template.php:22 yt-video-embedder.php:172
+msgid "Add new video"
+msgstr "Új videó hozzáadása"
+
+#: pages/embedded_video_list_template.php:30
+msgid "Action"
+msgstr "Művelet"
+
+#: pages/embedded_video_list_template.php:32
+msgid "Video"
+msgstr "Videó"
+
+#: pages/embedded_video_list_template.php:38
+msgid "Privacy mode"
+msgstr "Adatvédelmi mód"
+
+#: pages/embedded_video_list_template.php:43
+msgid "Start in secs"
+msgstr "A videó kezdete mp-ben"
+
+#: pages/embedded_video_list_template.php:70
+msgid "Edit"
+msgstr "Szerkeszt"
+
+#: pages/embedded_video_list_template.php:82
+#: pages/embedded_video_list_template.php:84
+#: pages/embedded_video_list_template.php:85
+msgid "enabled"
+msgstr "bekapcsolva"
+
+#: pages/embedded_video_list_template.php:82
+#: pages/embedded_video_list_template.php:84
+#: pages/embedded_video_list_template.php:85
+msgid "disabled"
+msgstr "kikapcsolva"
+
+#: pages/embedded_video_list_template.php:96
+msgid "Learn more about"
+msgstr "Tudj meg többet"
+
+#: pages/embedded_video_list_template.php:97
+msgid "Youtube video embed settings"
+msgstr "a Youtube videók beágyazásának beállításairól"
+
+#: yt-video-embedder.php:163
+msgid "Your Embedded Video List"
+msgstr "A Beágyazott Videóid Listája"
+
+#: yt-video-embedder.php:173
+msgid "Add new"
+msgstr "Új hozzáadása"

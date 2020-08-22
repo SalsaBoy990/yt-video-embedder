@@ -1,0 +1,21 @@
+.fluid-width-video-wrapper {
+  padding-top: 0 !important;
+  position: static !important;
+}
+
+.ag_yt_video_embedder_video_grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(560px, 1fr));
+  grid-gap: 1em;
+}
+
+@media only screen and (min-width: 1440px) {
+  .ag_yt_video_embedder_video_grid {
+    grid-template-columns: repeat(2, minmax(560px, 1fr));
+  }
+}
+
+
+.ag_yt_video_embedder_video_item.single-video-embed {
+  margin-bottom: 40px;
+}

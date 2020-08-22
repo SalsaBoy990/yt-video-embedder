@@ -1,0 +1,211 @@
+# Copyright (C) 2020 András Gulácsi
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Youtube Video Embedder 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/yt-video-embedder\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-08-19T15:09:15+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0-alpha-75cb7e3\n"
+"X-Domain: ag-yt-video-embedder\n"
+
+#. Plugin Name of the plugin
+#: yt-video-embedder.php:162
+msgid "Youtube Video Embedder"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://example.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "You can easily embed videos from Youtube etc. responsively with Bootstrap 4. Multiple widgets and shortcodes available."
+msgstr ""
+
+#. Author of the plugin
+msgid "András Gulácsi"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/SalsaBoy990"
+msgstr ""
+
+#: inc/group_video_widget_class.php:22
+msgid "Youtube video group embed widget."
+msgstr ""
+
+#: inc/group_video_widget_class.php:26
+msgid "Youtube Video Group Embed"
+msgstr ""
+
+#: inc/group_video_widget_class.php:100
+msgid "Adds your embedded Youtube video group widget."
+msgstr ""
+
+#: inc/group_video_widget_class.php:102
+msgid "Heading:"
+msgstr ""
+
+#: inc/single_video_widget_class.php:24
+msgid "Single Youtube video embed widget."
+msgstr ""
+
+#: inc/single_video_widget_class.php:28
+msgid "Single Youtube Video Embed"
+msgstr ""
+
+#: inc/single_video_widget_class.php:143
+msgid "Adds a single embedded Youtube video widget."
+msgstr ""
+
+#: inc/single_video_widget_class.php:145
+msgid "Title:"
+msgstr ""
+
+#: inc/single_video_widget_class.php:150
+msgid "Youtube video link to embed:"
+msgstr ""
+
+#: inc/single_video_widget_class.php:155
+msgid "Start time in seconds:"
+msgstr ""
+
+#: inc/single_video_widget_class.php:160
+msgid "Enhanced Privacy mode:"
+msgstr ""
+
+#: inc/single_video_widget_class.php:165
+msgid "Autoplay:"
+msgstr ""
+
+#: inc/single_video_widget_class.php:170
+msgid "Captions:"
+msgstr ""
+
+#: pages/embedded_video_edit_template.php:33
+msgid "Edit Youtube video details"
+msgstr ""
+
+#: pages/embedded_video_edit_template.php:40
+msgid "Video details"
+msgstr ""
+
+#: pages/embedded_video_edit_template.php:55
+#: pages/embedded_video_insert_template.php:16
+#: pages/embedded_video_list_template.php:31
+msgid "Title"
+msgstr ""
+
+#: pages/embedded_video_edit_template.php:60
+#: pages/embedded_video_insert_template.php:20
+#: pages/embedded_video_list_template.php:33
+msgid "Url"
+msgstr ""
+
+#: pages/embedded_video_edit_template.php:65
+#: pages/embedded_video_insert_template.php:24
+msgid "Start time (in secs)"
+msgstr ""
+
+#: pages/embedded_video_edit_template.php:74
+#: pages/embedded_video_insert_template.php:32
+msgid "Enhanced Privacy mode"
+msgstr ""
+
+#: pages/embedded_video_edit_template.php:83
+#: pages/embedded_video_insert_template.php:41
+#: pages/embedded_video_list_template.php:44
+msgid "Autoplay"
+msgstr ""
+
+#: pages/embedded_video_edit_template.php:87
+#: pages/embedded_video_insert_template.php:45
+#: pages/embedded_video_list_template.php:45
+msgid "Captions"
+msgstr ""
+
+#: pages/embedded_video_edit_template.php:93
+msgid "Update"
+msgstr ""
+
+#: pages/embedded_video_edit_template.php:94
+msgid "Cancel"
+msgstr ""
+
+#: pages/embedded_video_edit_template.php:95
+msgid "Delete"
+msgstr ""
+
+#: pages/embedded_video_insert_template.php:1
+msgid "Add new Youtube video"
+msgstr ""
+
+#: pages/embedded_video_insert_template.php:8
+msgid "Add video details"
+msgstr ""
+
+#: pages/embedded_video_insert_template.php:50
+msgid "Add embedded video"
+msgstr ""
+
+#: pages/embedded_video_list_template.php:19
+msgid "Manage Your Youtube Video Embeds"
+msgstr ""
+
+#: pages/embedded_video_list_template.php:22
+#: yt-video-embedder.php:172
+msgid "Add new video"
+msgstr ""
+
+#: pages/embedded_video_list_template.php:30
+msgid "Action"
+msgstr ""
+
+#: pages/embedded_video_list_template.php:32
+msgid "Video"
+msgstr ""
+
+#: pages/embedded_video_list_template.php:38
+msgid "Privacy mode"
+msgstr ""
+
+#: pages/embedded_video_list_template.php:43
+msgid "Start in secs"
+msgstr ""
+
+#: pages/embedded_video_list_template.php:70
+msgid "Edit"
+msgstr ""
+
+#: pages/embedded_video_list_template.php:82
+#: pages/embedded_video_list_template.php:84
+#: pages/embedded_video_list_template.php:85
+msgid "enabled"
+msgstr ""
+
+#: pages/embedded_video_list_template.php:82
+#: pages/embedded_video_list_template.php:84
+#: pages/embedded_video_list_template.php:85
+msgid "disabled"
+msgstr ""
+
+#: pages/embedded_video_list_template.php:96
+msgid "Learn more about"
+msgstr ""
+
+#: pages/embedded_video_list_template.php:97
+msgid "Youtube video embed settings"
+msgstr ""
+
+#: yt-video-embedder.php:163
+msgid "Your Embedded Video List"
+msgstr ""
+
+#: yt-video-embedder.php:173
+msgid "Add new"
+msgstr ""
