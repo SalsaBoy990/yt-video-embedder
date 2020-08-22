@@ -13,6 +13,8 @@ Options available:
 - Start video at sertain time in seconds (`?start=90`)
 - Enable captions (`&cc_load_policy=1`)
 
+[More info...](https://support.google.com/youtube/answer/171780?hl=en)
+
 
 ## Install
 
@@ -28,6 +30,7 @@ Unzip it into your Wordpress plugins directory.
 
 Default arg values:
 
+````
   'url'             => self::DEFAULT_LINK,
   'title'           => __('This is a default video, add your url in shortcode'),
   'start_time'      => 0,
@@ -36,6 +39,7 @@ Default arg values:
   'privacy'         => 'off',
   'autoplay'        => 'off',
   'captions'        => 'off'
+````
 
 Font weight is for the heading title.
 
@@ -43,16 +47,18 @@ Font weight is for the heading title.
 ### Group video shortcode
 
 
-[group_video_embed heading="" heading_level="" font_weight="" ]
+`[group_video_embed heading="" heading_level="" font_weight="" ]`
 
 Default arg values:
 
+````
   'heading'        => __('This is a default video, add your url in shortcode'),
   'heading_level'  => 'h3',
   'font_weight'    => '700',
   'limit'          => 0, *
   'order_by'       => 'date', // title *
   'order'          => 'DESC', // ASC *
+````
 
 * These args are not implemented yet !
 
