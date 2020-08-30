@@ -1,5 +1,9 @@
 <?php
-namespace AG_YT_Video_Embedder;
+
+namespace AG\YTVideoEmbedder\Log;
+
+defined('ABSPATH') or die();
+
 /**
 * Finally, a light, permissions-checking logging class.
 *
