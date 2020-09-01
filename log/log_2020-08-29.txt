@@ -1,1 +1,0 @@
-2020-08-29 1:19:33 - INFO --> Team member data successfully updated - C:\laragon\www\basic\wp-content\plugins\yt-video-embedder\inc\Crud\Crud.php:handleUpdate:245
